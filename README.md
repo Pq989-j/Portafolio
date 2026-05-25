@@ -55,27 +55,15 @@ El sitio está diseñado con una estrategia fluida para adaptarse correctamente 
 
 ---
 
-## 🚀 Objetivo del proyecto
+## Ejecución del Proyecto
 
-Este proyecto fue desarrollado con el fin de fortalecer habilidades en:
+Para visualizar este portafolio en tu entorno local, no necesitas compiladores ni servidores complejos. Sigue estos pasos:
 
-* **Estructuración semántica** siguiendo estándares de HTML5.
-* **Maquetación avanzada** y alineación de ejes con Flexbox.
-* **Estilizado visual creativo** con CSS3.
-* **Creación de interfaces** de usuario (UI) modernas y limpias.
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/tu-usuario/nombre-de-tu-repo.git](https://github.com/tu-usuario/nombre-de-tu-repo.git)
 
----
-
-## 📸 Vista previa
-
-El portafolio presenta una interfaz minimalista y organizada donde se destacan las habilidades, información personal y proyectos realizados.
-## 📱 Responsive Design
-
-El sitio está diseñado con una estrategia fluida para adaptarse correctamente a:
-
-* 💻 **Desktop:** Layout completo con aprovechamiento de espacio.
-* 📑 **Tablet:** Reorganización de columnas mediante Flexbox.
-* 📱 **Mobile:** Navegación vertical optimizada para pantallas pequeñas.
+2. **Accede a la carpeta y abre el archivo**: "portafolio.md"; copia y pega el link dentro del archivo en cualquier navegador.
 
 ---
 
